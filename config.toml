@@ -1,4 +1,4 @@
-baseURL = " https://joseluislopezmanuel.github.io/my_launchx_blog/"
+baseURL = "https://joseluislopezmanuel.github.io/my_launchx_blog/"
 languageCode = "en-us"
 title = "Bitácora de Viaje de José Luis López Manuel"
 theme = "hugo-winston-theme"
